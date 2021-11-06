@@ -293,4 +293,12 @@ object Form1: TForm1
     Caption = 'CheckBox1'
     TabOrder = 7
   end
+  object Edit2: TEdit
+    Left = 528
+    Top = 120
+    Width = 121
+    Height = 21
+    TabOrder = 8
+    Text = 'Edit2'
+  end
 end
