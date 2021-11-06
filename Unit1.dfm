@@ -285,12 +285,12 @@ object Form1: TForm1
       OnClick = Button5Click
     end
   end
-  object Button6: TButton
-    Left = 448
-    Top = 32
-    Width = 121
-    Height = 105
-    Caption = 'Button6'
+  object CheckBox1: TCheckBox
+    Left = 480
+    Top = 64
+    Width = 97
+    Height = 17
+    Caption = 'CheckBox1'
     TabOrder = 7
   end
 end

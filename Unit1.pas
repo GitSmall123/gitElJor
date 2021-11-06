@@ -34,7 +34,7 @@ type
     Button5: TButton;
     Label9: TLabel;
     Label10: TLabel;
-    Button6: TButton;
+    CheckBox1: TCheckBox;
     procedure Button1Click(Sender: TObject);
     procedure FormShow(Sender: TObject);
     procedure Button2Click(Sender: TObject);
